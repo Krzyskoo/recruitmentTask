@@ -1,2 +1,6 @@
-package org.example;public interface Block {
+package org.example;
+
+public interface Block {
+    String getColor();
+    String getMaterial();
 }
